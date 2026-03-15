@@ -32,6 +32,8 @@ This project demonstrates how Soroban smart contracts can be used for real-world
 
 ## Deployed Smart Contract Link
 
-(https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CD2XOE354UM3YNX7SIKOCMGRRRQG4KF747QUGLCKETZUJUMTVZRYSXPD;;)
+(https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CD2XOE354UM3YNX7SIKOCMGRRRQG4KF747QUGLCKETZUJUMTVZRYSXPD)
+
+(https://stellar.expert/explorer/testnet/tx/142a1bab53a8f286396dc9d82db90754f3a0994f7388d53b9124ebacb2fe4466)
 
 ![alt text](<Screenshot 2026-03-15 125752.png>)
